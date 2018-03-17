@@ -51,7 +51,6 @@ Console.log the values of the object. Use the donutBox object from the previous 
 @return {Object}*/
 
 
-
 /*3. Create a function that will take in an object and will delete the taste property from the donutBox object above.*/
 
 /*@param {Object}
